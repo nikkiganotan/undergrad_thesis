@@ -1,0 +1,36 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.table{
+
+      background-color: white!important;
+      box-shadow: 0px 0px 5px 1px #888886!important;
+}
+
+td, th {
+    text-align: left;
+    padding: 8px;
+
+}
+
+td:hover{
+  text-decoration: none;
+  color: #000000;
+}
+.none{
+  text-align: center;
+
+}
+td.none:hover{
+  background-color: white !important;
+}
+
+.hidden-td{
+
+    display: none;
+
+}

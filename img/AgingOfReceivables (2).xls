@@ -1,0 +1,206 @@
+<table border=1 class="table">
+                  <thead class="text-white">
+                      <tr>
+                        <th colspan = "7">Aging of Recievable(Moving)</th>
+                      </tr>
+                      <tr>
+                          <th class="my-bg text-white">Account Name</th>
+                          <th class="my-bg text-white" >30 Days</th>
+                          <th class="my-bg text-white" >60 Days</th>
+                          <th class="my-bg text-white" >90 Days</th>
+                          <th class="my-bg text-white" >120 Days</th>
+                          <th class="my-bg text-white">Date Paid</th>
+                          <th class="my-bg text-white" >Remarks</th>
+                      </tr>
+                  </thead> <tr>
+                          <td>oreinz maala kasilag</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>57207.00</td>
+                          <td></td>
+                          <td>pikachu</td>
+                      </tr> <tr>
+                          <td>jeffrey rio rimando</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>15085.00</td>
+                          <td>2019-03-01</td>
+                          <td>hello</td>
+                      </tr> <tr>
+                          <td>jasper tade tanglib</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>144008.00</td>
+                          <td></td>
+                          <td>paid in cheque</td>
+                      </tr><tr>
+                          <td>nikki maling ganotan</td>
+                          <td>45456.80</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>2019-03-01</td>
+                          <td></td>
+                      </tr><tr>
+                          <td>leo jhester dion</td>
+                          <td>25320.00</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>2019-06-02</td>
+                          <td></td>
+                      </tr><tr>
+                          <td>tim dan cor</td>
+                          <td>42200.00</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>2019-03-30</td>
+                          <td>hello</td>
+                      </tr> <tr>
+                          <td>yolo yolo yolo</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>123085.00</td>
+                          <td></td>
+                          <td></td>
+                      </tr> <tr>
+                          <td>yolo yolo yolo</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>14401.00</td>
+                          <td></td>
+                          <td></td>
+                      </tr> <tr>
+                          <td>yolo yolo yolo</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>13293.00</td>
+                          <td>2019-03-30</td>
+                          <td>chicken</td>
+                      </tr> <tr>
+                          <td>demo demo demo</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>27320.00</td>
+                          <td>2019-03-30</td>
+                          <td></td>
+                      </tr> <tr>
+                          <td>oreinz maala kasilag</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>85810.00</td>
+                          <td>2019-06-04</td>
+                          <td></td>
+                      </tr> <tr>
+                          <td>leo jhester dion</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>14401.00</td>
+                          <td>2019-06-04</td>
+                          <td></td>
+                      </tr><tr>
+                      <td>TOTAL</td>
+                      <td>112976.8</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>494610</td>
+                  </tr>
+                </table>
+              <table border=1 class="table">
+                  <tr>
+                  </tr>
+                  <thead class="text-white">
+                      <tr>
+                        <th colspan = "7">Aging of Recievable(Not Moving)</th>
+                      </tr>
+                      <tr>
+                          <th class="my-bg text-white">Account Name</th>
+                          <th class="my-bg text-white" >30 Days</th>
+                          <th class="my-bg text-white" >60 Days</th>
+                          <th class="my-bg text-white" >90 Days</th>
+                          <th class="my-bg text-white" >120 Days</th>
+                          <th class="my-bg text-white">Date Paid</th>
+                          <th class="my-bg text-white" >Remarks</th>
+                      </tr>
+                  </thead> <tr>
+                          <td>nikki maling ganotan</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>39690.00</td>
+                          <td></td>
+                          <td>ok</td>
+                      </tr> <tr>
+                          <td>leo jhester dion</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>25111.00</td>
+                          <td>2018-01-01</td>
+                          <td>paid in cheque</td>
+                      </tr> <tr>
+                          <td>luke lol llanillo</td>
+                          <td>16375.80</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>2019-03-30</td>
+                          <td></td>
+                      </tr><tr>
+                      <td>TOTAL</td>
+                      <td>16375.8</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>64801</td>
+                  </tr>
+                </table><table border=1 class="table">
+                  <tr>
+                  </tr>
+                  <thead class="text-white">
+                      <tr>
+                        <th colspan = "7">Aging of Recievable(Legal)</th>
+                      </tr>
+                      <tr>
+                          <th class="my-bg text-white">Account Name</th>
+                          <th class="my-bg text-white" >30 Days</th>
+                          <th class="my-bg text-white" >60 Days</th>
+                          <th class="my-bg text-white" >90 Days</th>
+                          <th class="my-bg text-white" >120 Days</th>
+                          <th class="my-bg text-white">Date Paid</th>
+                          <th class="my-bg text-white" >Remarks</th>
+                      </tr>
+                  </thead> <tr>
+                          <td>u u u</td>
+                          <td>56171.00</td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>nn</td>
+                      </tr><tr>
+                      <td>TOTAL</td>
+                      <td>56171</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>0</td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                      <td>TOTAL</td>
+                      <td>185523.6</td>
+                      <td>0</td>
+                      <td>0</td>
+                      <td>559411</td>
+                      <td>744934.6<td>
+                  </tr>
+                </table>
